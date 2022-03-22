@@ -1,1 +1,0 @@
-Folder hw2 - praca Arka i Huberta
