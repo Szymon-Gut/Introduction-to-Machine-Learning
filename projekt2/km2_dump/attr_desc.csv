@@ -1,0 +1,69 @@
+Feature Name,Description,Ordered
+dAge,Age,1
+dAncstry1,Ancestry,0
+dAncstry2,ANcestry,0
+iAvail,Available for work,0
+iCitizen,Citizenship,0
+iClass,Class of Worker,0
+dDepart,Time of Departure for Work Hour and Minutes,1
+iDisabl1,Work Limitation,0
+iDisabl2,Work Prevented,0
+iEnglish,Ability to Speak English,1
+iFeb55,Served February 1955 July 1964,0
+iFertil,No. of Chld. Ever Born,1
+dHispanic,Detailed Hispanic Origin Code See Append,0
+dHour89,Usual Hrs. Worked Per Week Last Yr. 1989,1
+dHours,Hrs. Worked Last Week,1
+iImmigr,Yr. of Entry,1
+dIncome1,Wages or Salary Inc. in 1989,1
+dIncome2,Nonfarm Self Employment Inc. in 1989,1
+dIncome3,Farm Self Employment Inc. in 1989,1
+dIncome4,Int. Dividends and Net Rental Inc. in 1989,1
+dIncome5,Soc. Sec Inc. in 1989,1
+dIncome6,Pub. Asst. Inc. in 1989,1
+dIncome7,Ret. Inc. in 1989,1
+dIncome8,All Other Inc. in 1989,1
+dIndustry,Ind. See Appendix I Ind..lst,1
+iKorean,Served Korean Conflict June 1950 January,0
+iLang1,Language Other Than English At Home,0
+iLooking,Looking for Work,0
+iMarital,Marital Stat.,0
+iMay75880,Served May 1975 to August 1980,0
+iMeans,Means of Transportation to Work,0
+iMilitary,Military Srvc.,0
+iMobility,Mobility Stat. Lived Here on April 1 1989,0
+iMobillim,Mobility Limitation,0
+dOccup,Occupation,0
+iOthrserv,Served Any Other Time,0
+iPerscare,Personal Care Limitation,0
+dPOB,Place of Birth,0
+dPoverty,Pers. Poverty Stat.,1
+dPwgt1,Pers. Wgt,0
+iRagechld,Presence and Age of Own Chld.,0
+dRearning,Total Pers. Earnings,1
+iRelat1,Rel. or Not Related or Grp. Qtrs.,0
+iRelat2,Detailed Rel. Other Rel.,0
+iRemplpar,Employment Stat. of Parents,0
+iRiders,Vehicle Occupancy,1
+iRlabor,Employment Stat. Recode,0
+iRownchld,Own Child,0
+dRpincome,Total Pers. Inc. Signed,1
+iRPOB,Place of Birth Recode,0
+iRrelchld,Related Child,0
+iRspouse,Married Spouse Present/spouse Absent,0
+iRvetserv,Veteran Per. of Srvc.,0
+iSchool,School Enrollment,0
+iSept80,Served September 1980 or Later,0
+iSex,Sex,0
+iSubfam1,Subfam. Rel.,0
+iSubfam2,Subfam. Number,0
+iTmpabsnt,Temp. Absence From Work,0
+dTravtime,Travel Time to Work,0
+iVietnam,Served Vietnam Era August 1964 April 197,0
+dWeek89,Wks. Worked Last Yr. 1989,1
+iWork89,Worked Last Yr. 1989,0
+iWorklwk,Worked Last Week,0
+iWWII,Served World War II September 1940 July,0
+iYearsch,Ed. Attainment,0
+iYearwrk,Yr. Last Worked,0
+dYrsserv,Yrs. of Active Duty Military Srvc.,1
