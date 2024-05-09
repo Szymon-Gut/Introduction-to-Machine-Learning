@@ -1,1 +1,2 @@
-Folder hw2 - praca Arka i Huberta
+# Gaol
+For this homework, our role was that of the validation team. We were tasked with validating the solutions created by another team of developers. Similar to the objective in the previous assignment (hw1), our goal was to conduct Exploratory Data Analysis (EDA) on the provided dataset. However, in this instance, our focus shifted to reviewing the work of the other team and documenting our findings and conclusions.

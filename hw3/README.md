@@ -1,0 +1,2 @@
+# Goal
+Once again, we were the builder team for this project. The objective was to construct a solution for predicting bankruptcy likelihood. We evaluated several models and selected the most effective one based on our model evaluations.
